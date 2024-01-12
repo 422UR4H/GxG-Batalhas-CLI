@@ -1,0 +1,753 @@
+nome: AKIRA
+hpFull: 143
+mopFull: 10
+aop: 15
+pop: 27
+cdn: 2
+ten: 25
+modClas: 0.6
+modFor: 5
+vel: 42
+corpo: 105
+ataques: 6
+*LAMINAS: 15
+*ADAGAS DE A.: 8
+*<12>ALICE: 15
+ESPADA VAMP. AMALD.: 19
+1.5*<12>LUNA(MAN): 10
+1.5*<12>LUNA: 4
+
+nome: AORI
+hpFull: 159
+mopFull: 16
+aop: 27
+pop: 38
+cdn: 1
+ten: 27
+modClas: 0.8
+modFor: 4
+vel: 38
+corpo: 110
+ataques: 3
+*ESPADA COM CORRENTE: 11
+AGULHA: 1
+BRINCALHAO: -1
+
+nome: DENNY
+hpFull: 175
+mopFull: 21
+aop: 14
+pop: 28
+cdn: 2
+ten: 14
+modClas: 0.8
+modFor: 4
+vel: 37
+corpo: 103
+ataques: 1
+PAUZIM: 4
+
+nome: DILAM
+hpFull: 147
+mopFull: 10
+aop: 11
+pop: 26
+cdn: 2
+ten: 11
+modClas: 0.4
+modFor: 3
+vel: 38
+corpo: 100
+ataques: 1
+#*<25>PISTOLAS NEN: 22
+
+nome: HATTORI
+hpFull: 135
+mopFull: 18
+aop: 12
+pop: 13
+cdn: 3
+ten: 12
+modClas: 0.8
+modFor: 5
+vel: 33
+corpo: 108
+ataques: 3
+#AS GEMEAS DO NORTE: 15
+*PRATA VIVA(EMS): 28
+*PRATA VIVA: 24
+
+nome: ISAAC
+hpFull: 163
+mopFull: 23
+aop: 20
+pop: 19
+cdn: 3
+ten: 23
+modClas: 0.8
+modFor: 4
+vel: 40
+corpo: 111
+ataques: 2
+*KATANA: 10
+*FACAS: 12
+
+nome: JACK
+hpFull: 191
+mopFull: 11
+aop: 13
+pop: 27
+cdn: 0
+ten: 13
+modClas: 1.0
+modFor: 8
+vel: 87
+corpo: 124
+ataques: 3
+BASTAO: 8
+ADAGAS: 16
+ESPADA LONGA: 15
+
+nome: LUCAS
+hpFull: 165
+mopFull: 30
+aop: 18
+pop: 30
+cdn: 3
+ten: 18
+modClas: 1.0
+modFor: 10
+vel: 40
+corpo: 115
+ataques: 13
+FACA BENZ: 35
+*FLECHA: 23
+*<32>FLECHA DE SOMBRA: 22
+*<19>FLECHA DE FOGO: 22
+*<51>FLECHA DE FOGO NEGRO: 28
+*<32>PREPARACAO(10): 17
+*<32>PREPARACAO(2 turno+): 17
+*<19>BOLA DE FOGO: 24
+*<32>BOLA DE SOMBRA: 24
+*<51>BOLA DE FOGO NEGRO: 31
+ARMADURA DE SOMBRA: 41
+ESCUDINHO DE SOMBRA: 28
+ESCUDO DE SOMBRA: 31
+
+nome: MACO
+hpFull: 164
+mopFull: 32
+aop: 19
+pop: 31
+cdn: 2
+ten: 17
+modClas: 0.6
+modFor: 7
+vel: 43
+corpo: 0
+ataques: 4
+1.8<27>FERRAO CABECA: 18
+1.8<27>FERRAO CAUDA: 18
+1.8<27>GARRA: 15
+1.8*<27>ESPINHOS: 12
+
+nome: PITOU
+hpFull: 136
+mopFull: 19
+aop: 17
+pop: 4
+cdn: 2
+ten: 17
+modClas: 0.6
+modFor: 3
+vel: 32
+corpo: 105
+ataques: 2
+*QUIMICA: 17
+*<14>GARRAS MORTIFERAS: 6
+
+nome: SAMHEIN
+hpFull: 157
+mopFull: 24
+aop: 24
+pop: 40
+cdn: 1
+ten: 24
+modClas: 0.6
+modFor: 4
+vel: 40
+corpo: 104
+ataques: 5
+FOICES: 9
+<14>IRMAS MALVADAS: 9
+2.0*<14>RUPTURA: 11
+1.8*<14>PACIFICADORA: 11
+6.0*<14>ULT: 9
+
+nome: SHINOBU
+hpFull: 160
+mopFull: 29
+aop: 16
+pop: 22
+cdn: 2
+ten: 16
+modClas: 0.8
+modFor: 5
+vel: 39
+corpo: 106
+ataques: 1
+FIRE KEEPER: 9
+
+nome: SKYTHA
+hpFull: 155
+mopFull: 16
+aop: 12
+pop: 33
+cdn: 2
+ten: 12
+modClas: 1.0
+modFor: 6
+vel: 41
+corpo: 104
+ataques: 3
+*LUVAS DE NAZOD: 23
+*PUNHO VOADOR: 32
+*PUNHO VOADOR (S. LUVAS): 20
+
+nome: SOMA
+hpFull: 156
+mopFull: 12
+aop: 24
+pop: 22
+cdn: 2
+ten: 24
+modClas: 0.4
+modFor: 4
+vel: 40
+corpo: 105
+ataques: 5
+-MATAHOMBRES(E FULL): 10
+-PISTOLA H.: 8
+#*<10>GELO(DEF): 10
+#*<13>GELO(MAN): 6
+#<10>ESPELHO DE GELO: 20
+
+nome: YASUHIKU
+hpFull: 147
+mopFull: 10
+aop: 13
+pop: 35
+cdn: 2
+ten: 22
+modClas: 1.0
+modFor: 8
+vel: 40
+corpo: 100
+ataques: 4
+AIAN NAKKURU: 12
+PRIMEIRO PASSO: 27
+<22>SEGUNDO PASSO: 33
+FECHAR PASSOS: 8
+
+nome: YURI
+hpFull: 158
+mopFull: 25
+aop: 14
+pop: 32
+cdn: 0
+ten: 14
+modClas: 0.6
+modFor: 5
+vel: 39
+corpo: 100
+ataques: 2
+*<28>FUUMA SHURIKEN: 37
+*<28>FUUMA SHURIKEN(MAN): 32
+
+nome: ALICEA
+hpFull: 162
+mopFull: 26
+aop: 41
+pop: 38
+cdn: 1
+ten: 47
+modClas: 0.8
+modFor: 4
+vel: 41
+corpo: 100
+ataques: 2
+GARRAS(UNHAS): 5
+TEIA(DEF): 62
+
+nome: BIGGLE
+hpFull: 155
+mopFull: 19
+aop: 19
+pop: 19
+cdn: 2
+ten: 19
+modClas: 0.6
+modFor: 5
+vel: 37
+corpo: 100
+ataques: 1
+<40>MAN: 20
+
+nome: BOB
+hpFull: 175
+mopFull: 25
+aop: 25
+pop: 40
+cdn: 3
+ten: 25
+modClas: 0.8
+modFor: 7
+vel: 40
+corpo: 100
+ataques: 1
+VOID: 0
+
+nome: CARRIE
+hpFull: 183
+mopFull: 16
+aop: 21
+pop: 25
+cdn: 2
+ten: 21
+modClas: 0.4
+modFor: 24
+vel: 43
+corpo: 105
+ataques: 3
+#<27>TELECINESE: 33
+-ADAGAS: 29
+-*ADAGAS D A.: 27
+
+nome: DANDARA
+hpFull: 195
+mopFull: 33
+aop: 30
+pop: 14
+cdn: 2
+ten: 30
+modClas: 1.0
+modFor: 7
+vel: 50
+corpo: 105
+ataques: 1
+*<18>ARGILA VIVA: 9
+
+nome: HELIO
+hpFull: 157
+mopFull: 21
+aop: 24
+pop: 32
+cdn: 2
+ten: 24
+modClas: 0.8
+modFor: 5
+vel: 40
+corpo: 100
+ataques: 1
+<0>THE END: 29
+
+nome: HIRON
+hpFull: 180
+mopFull: 66
+aop: 20
+pop: 43
+cdn: 2
+ten: 20
+modClas: 0.6
+modFor: 5
+vel: 44
+corpo: 116
+ataques: 7
+ESPADA MAGICA DRACONICA: 20
+<2>LAMINA DD FLAMEJANTE: 48
+*<1>ATAQUE GEMINIANO: 32
+<2>DDD XIUHTECUHTLI: 43
+<2>PROTECAO DE APOLO: 33
+<2>PROTECAO DE USHAS: 33
+*<2>INVOCACAO BRIGIDA: 49
+
+nome: JAMES
+hpFull: 233
+mopFull: 63
+aop: 49
+pop: 41
+cdn: 2
+ten: 49
+modClas: 0.6
+modFor: 5
+vel: 90
+corpo: 112
+ataques: 5
+ESPADA LONGA: 9
+*<27>PYROCINESE: 13
+*<27>DISCOS DE FOGO: 28
+LAMINAS SNK: 20
+ARCO: 14
+
+nome: BALTAZAR
+hpFull: 221
+mopFull: 45
+aop: 26
+pop: 56
+cdn: 3
+ten: 26
+modClas: 1.0
+modFor: 4
+vel: 54
+corpo: 110
+ataques: 2
+BOMBA: 0
+NA MAO DO TERRO.: 36
+
+nome: SCARLET
+hpFull: 187
+mopFull: 25
+aop: 40
+pop: 23
+cdn: 2
+ten: 40
+modClas: 0.6
+modFor: 3
+vel: 83
+corpo: 100
+ataques: 10
+<56>QUEEN SCARLET: 11
+<56>KATANA: 9
+<56>ESPADAS: 6
+<56>ESPADA LONGA: 7
+<56>ALGHATRIZES: 3
+<56>MASTER SOLDIER S.: 22
+<56>E. OF THE WIND S.: 26
+<56>E. OF THE FLAMES S.: 34
+<56>E. OF THE THUNDER S.: 30
+<56>E. OF THE BLIZZARD S.: 34
+
+nome: JHON
+hpFull: 170
+mopFull: 46
+aop: 15
+pop: 36
+cdn: 2
+ten: 15
+modClas: 0.8
+modFor: 5
+vel: 40
+corpo: 102
+ataques: 6
+<18>MANOPLADA: 5
+*<18>COSM.(MAN): 14
+*<18>COSM.(EMS): 23
+*<18>COSM.: 5
+*<18>COSM.(DEF): 35
+*<4>COSM.(DEF desespero): 35
+
+nome: KAISHI
+hpFull: 165
+mopFull: 17
+aop: 36
+pop: 34
+cdn: 3
+ten: 36
+modClas: 0.8
+modFor: 5
+vel: 44
+corpo: 107
+ataques: 3
+*<20>TENTACULOS: 26
+<0>CORTE ESPIRITUAL: 21
+KATANA: 11
+
+nome: KALITSU
+hpFull: 154
+mopFull: 30
+aop: 14
+pop: 25
+cdn: 3
+ten: 14
+modClas: 0.8
+modFor: 8
+vel: 41
+corpo: 100
+ataques: 1
+*<12>LITTLE ROSE: 24
+
+nome: KAN
+hpFull: 165
+mopFull: 28
+aop: 16
+pop: 32
+cdn: 1
+ten: 16
+modClas: 0.8
+modFor: 5
+vel: 39
+corpo: 100
+ataques: 4
+*<27>MARIONETE: 21
+<0>CANHAO NEN: 32
+*LAMINA(S) ESCONDIDA(S): 25
+*LAMINAS (EJETADAS): 28
+
+nome: KAT
+hpFull: 149
+mopFull: 18
+aop: 18
+pop: 24
+cdn: 2
+ten: 18
+modClas: 0.8
+modFor: 3
+vel: 45
+corpo: 100
+ataques: 4
+FACA BENZ: 28
+1.5*ADAGAS NEN: 15
+*ADAGAS DE A. NEN: 6
+2.8*ADAGAS BENZ: 33
+
+nome: KUAI
+hpFull: 165
+mopFull: 23
+aop: 22
+pop: 28
+cdn: 0
+ten: 22
+modClas: 0.8
+modFor: 5
+vel: 38
+corpo: 102
+ataques: 1
+CROCODILO: 26
+
+nome: LAND
+hpFull: 227
+mopFull: 50
+aop: 41
+pop: 33
+cdn: 3
+ten: 41
+modClas: 0.8
+modFor: 5
+vel: 43
+corpo: 100
+ataques: 6
+*<24>HEMOCINESE: 12
+*LAMINAS DE SANGUE: 12
+*RAMOS CARMESIM: 12
+*HEMOBALA: 15
+*HEMOCETRALHA: 10
+ESCUDO DE SANGUE: 20
+
+nome: LESGUIN
+hpFull: 160
+mopFull: 22
+aop: 23
+pop: 36
+cdn: 1
+ten: 23
+modClas: 0.8
+modFor: 6
+vel: 40
+corpo: 102
+ataques: 9
+PAU: 6
+GEMEAS DA CAPTURA: 16
+MEIA LUA SOLITARIA(AGUA): 2
+MEIA LUA SOLITARIA(GELO): 6
+LENHADOR DE ORGAOS: 15
+GIGANTE PESADA: 10
+ANA AFIADA: 26
+BAILARINA DOS MEMBROS: 13
+EXTERMINIO; SOUL EATER: 12
+
+nome: LUCCAS
+hpFull: 159
+mopFull: 28
+aop: 18
+pop: 34
+cdn: 3
+ten: 18
+modClas: 1.0
+modFor: 4
+vel: 37
+corpo: 113
+ataques: 1
+*HALF MOON STORM: 17
+
+nome: LUCIANO
+hpFull: 178
+mopFull: 30
+aop: 22
+pop: 30
+cdn: 1
+ten: 22
+modClas: 0.8
+modFor: 1
+vel: 43
+corpo: 110
+ataques: 3
+*PITSOLAS LAZER: 10
+*PISTOLAS: 8
+*<0>PISTOLAS NEN: 34
+
+nome: MET
+hpFull: 226
+mopFull: 14
+aop: 26
+pop: 33
+cdn: 2
+ten: 26
+modClas: 0.8
+modFor: 30
+vel: 46
+corpo: 110
+ataques: 4
+EXPLOSION: 25
+ESPADA LONGA DRACONICA: 63
+MACHADO LONGO DRACONICO: 62
+MARRETA DRACONICA: 61
+
+nome: REX
+hpFull: 155
+mopFull: 20
+aop: 24
+pop: 29
+cdn: 2
+ten: 24
+modClas: 0.6
+modFor: 8
+vel: 37
+corpo: 100
+ataques: 3
+<35>NANOLAMINA: 31
+<35>NANOPUNHOS: 25
+<35>DEFESA: 39
+
+nome: TYSON
+hpFull: 184
+mopFull: 14
+aop: 13
+pop: 32
+cdn: 3
+ten: 13
+modClas: 0.8
+modFor: 24
+vel: 43
+corpo: 105
+ataques: 2
+*MIMETISMO: 0
+*<5>POH: 0
+
+nome: WUKONG
+hpFull: 145
+mopFull: 20
+aop: 14
+pop: 26
+cdn: 1
+ten: 14
+modClas: 0.8
+modFor: 6
+vel: 37
+corpo: 114
+ataques: 3
+CEIFADORA/BRILHO: 14
+*KATANAS: 12
+<0>RUGIDO: 8
+
+nome: MALENA
+hpFull: 207
+mopFull: 50
+aop: 56
+pop: 101
+cdn: 1
+ten: 56
+modClas: 0.8
+modFor: 5
+vel: 50
+corpo: 100
+ataques: 4
+GF MARRETA: 12
+GF ESPADA L. CHICOTE: 14
+GF ARMADURA DE GATA: 27
+GF CANHAO DE AR: 54
+
+nome: NOGHS
+hpFull: 205
+mopFull: 36
+aop: 33
+pop: 96
+cdn: 3
+ten: 33
+modClas: 1.0
+modFor: 7
+vel: 60
+corpo: 100
+ataques: 3
+CHI: 14
+PAA: 13
+PMDT: 7
+
+nome: KIMMY
+hpFull: 247
+mopFull: 38
+aop: 56
+pop: 51
+cdn: 3
+ten: 56
+modClas: 0.6
+modFor: 5
+vel: 54
+corpo: 100
+ataques: 3
+*<45>OSSOS: 7
+*<45>SKELETON: 16
+*<45>BONEBEAST: 20
+
+nome: FADA
+hpFull: 235
+mopFull: 100
+aop: 53
+pop: 35
+cdn: 4
+ten: 53
+modClas: 0.6
+modFor: 20
+vel: 51
+corpo: 100
+ataques: 1
+*<65>GELO: 5
+
+nome: LAGARTO
+hpFull: 174
+mopFull: 1
+aop: 0
+pop: 0
+cdn: 0
+ten: 0
+modClas: 0.1
+modFor: 28
+vel: 37
+corpo: 100
+ataques: 1
+LANCA: 60
+
+nome: GNOLL
+hpFull: 269
+mopFull: 110
+aop: 57
+pop: 52
+cdn: 3
+ten: 57
+modClas: 0.6
+modFor: 30
+vel: 50
+corpo: 100
+ataques: 3
+<100>LANCA: 35
+<100>MACHADO: 33
+<100>CLAVA: 32

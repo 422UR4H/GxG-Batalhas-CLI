@@ -1,0 +1,28 @@
+MULTIFUNCOES
+para usar mais de uma
+funcao por turno:
+usar ponteiro de vetor
+na variavel comando[TAM]
+assim: char *comando[TAM]
+ou: char comando[2][TAM]
+eu acho...
+--com ponteiro é melhor--
+e testar pilha, para
+reallocar valores p usar
+com mais funcoes p turno
+OU TER UM COMANDO CHAMADO
+MULTIFUNCOES QUE FAZ ISSO
+
+separar a lista help de
+comandos com os comandos:
+helphp: mostra comandos de hp
+helpmop: -- -- -- mop
+helpshu: -- -- -- shu
+helpatk: -- -- -- atk e dano
+helpaop: -- -- -- aop
+ou
+showhp
+showmop
+showshu
+showatl
+showaop

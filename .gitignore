@@ -1,0 +1,16 @@
+null
+
+*backup*
+!*BDbackup*
+!backup.bat
+
+*.cbp
+*.depend
+*.layout
+*.o
+
+obj/
+bin/
+
+
+.deps/

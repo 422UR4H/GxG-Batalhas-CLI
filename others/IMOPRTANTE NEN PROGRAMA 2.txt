@@ -1,0 +1,33 @@
+uma função que guarde um dano de alguem
+guarda: o ataque, a qtd, mult do crit.
+(ou n), ryuAtk, aop (caso mat), ems ou nao, 
+pede: qtd critic, investida, dado/bonus.
+NA REAL: é so ele guardar o dano, a qtd,
+o mult do crit (ou n), e o gasto.
+
+e uma função, claro, que use esse dano.
+
+
+
+--------------
+funcao tipo interface que substitui leAtaque
+
+dividir funcoes
+testar funcoes de uma por uma
+
+arrumar para quando o dano for KOU
+aplicar 100% do dano, ignorando corpo
+*obs.: na verdade isso vale para qualquer
+valor de RYU diferente de 50%
+----------------
+
+
+
+
+funcao que altera corpo com volume
+
+
+
+outros programas
+banco
+cor (bruno)
